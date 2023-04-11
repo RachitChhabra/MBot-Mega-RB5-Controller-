@@ -1,8 +1,8 @@
-# CSE276A FA22 HW4
+# Motion Planning A star
 
 All files are in /rb5_control/src/
 
-1. We only need to change the mode 'm' in homework4.py file at line 276 to run each algorithm.
+1. We only need to change the mode 'm' in plan.py file at line 276 to run each algorithm.
 	
 	m = "min_distance" for shortest path problem
 	m = "max_safety" for safest path
